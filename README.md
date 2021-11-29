@@ -1,2 +1,2 @@
-# Aurelio (TITOLO BELLO)
-### AurelioPa.github.io (Sottotitolo più bello)
+# Aurelio
+### Progetto Front-End
